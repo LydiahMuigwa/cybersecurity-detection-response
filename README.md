@@ -1,4 +1,4 @@
-# Cybersecurity Detection & Response Portfolio
+# Cybersecurity Detection & Response
 
 This repository showcases hands-on projects in incident detection, response, and threat analysis. All reports were developed and written as part of SOC analyst and cybersecurity certification training.
 
